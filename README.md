@@ -5,7 +5,7 @@ I'm Ricardo Poleo, a passionate software developer and AI enthusiast with over 1
 - 💼 **Professional Experience**: Proficient in designing and deploying scalable solutions using ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396), ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396), and modern cloud platforms like AWS, Azure, and Google Cloud.  
 - 🤖 **AI Expertise**: Hands-on experience with Large Language Models (OpenAI, Perplexity, Gemini) and building intelligent multi-agent systems. I enjoy solving complex problems through AI-driven solutions and automation.  
 - 🌱 **Currently Exploring**: Developing Small Language Models (SLMs) from scratch for sentiment analysis, fine-tuning with LoRa, and applying quantization for deployment.  
-- 📫 **Open to Opportunities**: Seeking roles in machine learning, backend development, or AI-powered product design. Feel free to [reach out!](mailto:ricardopoleo@gmail.com)  
+- 📫 **Open to Opportunities**: Seeking roles in machine learning, backend development, or AI-powered product design. Feel free to [reach out!](https://www.linkedin.com/in/ricardopoleo/)  
 
 💬 **Ask me anything!** I enjoy sharing knowledge about software development, AI, and best practices in architecture.
 
