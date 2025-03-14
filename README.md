@@ -1,36 +1,69 @@
-### Hi there 👋
-I'm Ricardo Poleo, a passionate software developer and AI enthusiast with over 10 years of experience in back-end development, software architecture, and cloud computing. Nice to meet you!
+# Hi there, I'm Ricardo Poleo! 👋  
 
-- 🎓 **Education**: Graduated from the [Applied AI Solutions Development](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) program at George Brown College (Dean's List nominee, GPA: 3.89/4.0).  
-- 💼 **Professional Experience**: Proficient in designing and deploying scalable solutions using ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396), ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396), and modern cloud platforms like AWS, Azure, and Google Cloud.  
-- 🤖 **AI Expertise**: Hands-on experience with Large Language Models (OpenAI, Perplexity, Gemini) and building intelligent multi-agent systems. I enjoy solving complex problems through AI-driven solutions and automation.  
-- 🌱 **Currently Exploring**: Developing Small Language Models (SLMs) from scratch for sentiment analysis, fine-tuning with LoRa, and applying quantization for deployment.  
-- 📫 **Open to Opportunities**: Seeking roles in machine learning, backend development, or AI-powered product design. Feel free to [reach out!](https://www.linkedin.com/in/ricardopoleo/)  
-
-💬 **Ask me anything!** I enjoy sharing knowledge about software development, AI, and best practices in architecture.
+A passionate **Software Developer** and **AI Enthusiast** 🚀 with **10+ years** of experience building scalable, cloud-based software and intelligent solutions. Let's connect!
 
 ---
 
-### 🔧 Tools & Technologies
-- **Languages**: Java, Python, PHP, JavaScript, SQL  
-- **Databases**: MySQL, PostgreSQL, Firebase  
-- **Cloud Platforms**: AWS, Azure, Google Cloud  
-- **Frameworks**: Spring Boot, React, NodeJS, PyTorch, Scikit-learn  
-- **Methodologies**: Agile, Scrum, Clean Code Principles  
+## 🎓 **Education**
+
+**Applied AI Solutions Development Program (Postgraduate)**  
+*George Brown College, Toronto, ON | 2024 - 2025*  
+- Graduated with a GPA of **3.89/4.0** *(Dean’s List nominee)*
+
+**MSc in System Management**  
+*Universidad Metropolitana, Caracas, Venezuela | 2014 - 2017*
+
+**Bachelor in Computer Science**  
+*Universidad Metropolitana, Caracas, Venezuela | 2007 - 2014*
 
 ---
 
-### 👨‍💻 Notable Contributions & Projects
-#### Open Source Contributions
-- **JMeter Plugins**:
-Contributed to improving the Open Source community by developing multi-threaded, high-performance Java applications and enhancing the usability of JMeter Plugins, like the following:
-  - [HLS Plugin](https://github.com/Blazemeter/HLSPlugin)  
-  - [HTTP2 Plugin](https://github.com/Blazemeter/jmeter-http2-plugin)  
-  - [RTE Plugin](https://github.com/Blazemeter/RTEPlugin)  
-  - [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder)  
-
+## 💼 Professional Experience & Skills  
+- ⚙️ **Languages**: ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396), ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396), ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E), PHP, SQL  
+- 🗃️ **Databases**: MySQL, PostgreSQL, Firebase  
+- ☁️ **Cloud Platforms**: AWS, Azure, Google Cloud  
+- 🛠️ **Frameworks**: Spring Boot, React, NodeJS, PyTorch, Scikit-learn  
+- 📐 **Methodologies**: Agile, Scrum, Clean Code Practices  
 
 ---
 
+## 🤖 AI & ML Expertise  
+- 🌟 Extensive experience with **Large Language Models** (**OpenAI, Gemini, Perplexity**).
+- 🧩 Building intelligent **multi-agent systems** to automate complex workflows.
+- 🔍 Currently working on developing **Small Language Models (SLMs)** for custom sentiment analysis tasks, exploring LoRa fine-tuning and quantization for efficient deployment.
+
+---
+
+## 👨‍💻 Open Source & Notable Contributions
+- 🚀 **JMeter Plugins Contributor** *(Java, Performance Testing, Multi-threading)*  
+Enhanced community plugins for high-performance and usability improvements:
+  - [**HLS Plugin**](https://github.com/Blazemeter/HLSPlugin)  
+  - [**HTTP2 Plugin**](https://github.com/Blazemeter/jmeter-http2-plugin)  
+  - [**RTE Plugin**](https://github.com/Blazemeter/RTEPlugin)  
+  - [**Correlation Recorder**](https://github.com/Blazemeter/CorrelationRecorder)  
+
+---
+
+## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoPoleo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)  
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ricardopoleo.visitor-badge)  
+
+---
+
+## 🤝 Open to Opportunities
+I'm looking for roles in:
+- **Full Stack Development**
+- **Backend Development**
+- **AI-Powered Product Design**
+
+Feel free to [connect with me on LinkedIn!](https://www.linkedin.com/in/ricardopoleo/)  
+📩 *Always open for a chat about AI, tech, or life in general.*
+
+---
+
+*Thanks for visiting!* 🥳  
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ricardopoleo.visitor-badge)
+
+---
+
+## 💬 Ask me anything!
+I enjoy helping and learning with the community—feel free to reach out with questions on **Software Development**, **AI**, or **Cloud Architecture**!
